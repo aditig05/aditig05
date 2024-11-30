@@ -1,54 +1,67 @@
-# Hi there, I'm Aditi Gupta! 👋  
+<h1 align="center">Hi 👋, I'm Aditi Gupta</h1>
+<h3 align="center">Master's Student at IIIT Hyderabad</h3>
 
-Welcome to my GitHub profile! I am a **Computer Science and Engineering (CSE)** researcher at **IIIT Hyderabad**, pursuing my M.S. by Research under the guidance of **Prof. Pawan Kumar**. My academic journey began at **IISER Bhopal**, where I completed my B.S. in **Electrical Engineering and Computer Sciences (EECS)**.  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditig05&label=Profile%20views&color=0e75b6&style=flat" alt="aditig05" /> </p>
 
-Most of my course projects, research work, and passion projects are showcased here. Feel free to explore my repositories and dive into the exciting blend of **AI, Machine Learning, and NLP** I work on!  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditig05" alt="aditig05" /></a> </p>
 
-## 🔍 About Me  
-- 🌱 I’m currently learning to optimize ML models and integrate them into real-world applications.  
-- 🔭 My research focuses on **Deep Learning, NLP**, and **algorithmic AI**, especially in areas like **Generative AI, recommender systems**, and **vision-language interaction**.  
-- 🤝 I’m open to collaborations on challenging research or software development projects in **Machine Learning** and **Web Applications**.  
-- 💡 I’m exploring **LLMs** and innovative techniques for generative prompting.  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 💻 Skills  
-### **Programming Languages**  
-- **Proficient:** Python (Django, Flask, FastAPI), C++, JavaScript  
-- **Familiar:** Java (Basics), R (Statistical Analysis)  
+### 🔍 About Me
+- 🔭 I’m currently working on **AI-driven Generative Systems and NLP**.  
+- 🌱 I’m learning advanced optimization techniques for ML models and experimenting with **LLMs**.  
+- 👯 I’m open to collaborating on **Machine Learning, Deep Learning, and NLP** projects.  
+- 💬 Ask me about **Python, Flask, Django**, and **NLP tools**.  
+- 📫 Reach me at **aditi.gu@research.iiit.ac.in**.  
+- ⚡ Fun fact: I’m a finalist at **SIH 2023** and love solving coding challenges (300+ problems solved!).  
 
-### **Frameworks and Libraries**  
-- TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Hugging Face, React.js, Node.js, Express.js  
+---
 
-### **Web Development**  
-- HTML, CSS, Flask, JavaScript  
+### 💻 Skills  
+#### **Programming Languages**  
+- Python (Django, Flask, FastAPI), C++, JavaScript, R (Statistical Analysis), Java (Basics)  
 
-### **Databases**  
-- SQL, MongoDB  
+#### **Frameworks and Libraries**  
+- TensorFlow, Scikit-learn, Pandas, NumPy, Hugging Face, React.js, Node.js  
 
-### **Specialized Knowledge**  
-- Natural Language Processing (NLP), Deep Learning, Data Structures & Algorithms  
+#### **Specialized Knowledge**  
+- Deep Learning, Natural Language Processing (NLP), Generative AI  
 
-## 🚀 Research Projects  
-### **Requirements Engineering using Generative AI: Prompting Patterns**  
-- Developed methods for **Reprompting** and **Reinforcement Generative Prompting**, achieving an **8-10% F1-score improvement** in requirement extraction tasks using GPT-3.5 Turbo.  
-- Integrated **BERT** models for context interpretation, with **80% classification accuracy**.  
+---
 
-### **DigitVision: CNN vs Autoencoder**  
-- Designed a CNN-based digit recognizer achieving **95% accuracy** on a modified Multi-MNIST dataset.  
-- Explored autoencoders, with CNN outperforming MLP and PCA approaches at **92% accuracy**.  
-
-### **Melody Matcher: Recommender System**  
-- Built a matrix factorization-based model improving accuracy by **15%** on benchmark datasets.  
-
-### **Removing Duplicate Questions on Quora**  
-- Implemented a Siamese Network (MaLSTM), achieving an **F1-score of 0.83** and reducing redundancy by **72%**.  
-
-## 🌟 Achievements  
-- Selected for the prestigious **Amazon ML Summer School 2024**.  
+### 🌟 Achievements  
+- Selected for **Amazon ML Summer School 2024**.  
 - Finalist at **SIH 2023** for a hardware domain solution.  
-- Winner of **Curveball E-Cell Competition (IISERB)** for an innovative shuttle launcher prototype.  
+- Winner of the **Curveball E-Cell Competition (IISERB)** for an innovative shuttle launcher prototype.  
 - 5-star coder on **HackerRank**, with 300+ coding problems solved.  
 
-## 📫 Connect With Me  
-- LinkedIn: [aditig05](https://www.linkedin.com/in/aditig05/)  
-- Email: aditi.gu@research.iiit.ac.in | aditig0501@gmail.com  
-- GitHub: [aditig05](https://github.com/aditig05)  
+---
+
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aditig05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aditigupta05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://leetcode.com/aditigupta05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditig05&show_icons=true&locale=en&layout=compact" alt="aditig05" /></p>  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditig05&show_icons=true&locale=en" alt="aditig05" /></p>  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditig05&" alt="aditig05" /></p>  
