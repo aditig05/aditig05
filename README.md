@@ -54,11 +54,3 @@ Most of my course projects, research work, and passion projects are showcased he
 - GitHub: [aditig05](https://github.com/aditig05)  
 
 
-## 💻 GitHub Profile Stats  
-![Pranav Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Pranav Gupta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
-
----
-
-## 📈 Activity Graph  
-![Pranav Gupta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=radical)  
