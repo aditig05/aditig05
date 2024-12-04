@@ -52,3 +52,77 @@ Most of my course projects, research work, and passion projects are showcased he
 - LinkedIn: [aditig05](https://www.linkedin.com/in/aditig05/)  
 - Email: aditi.gu@research.iiit.ac.in | aditig0501@gmail.com  
 - GitHub: [aditig05](https://github.com/aditig05)  
+# Hey Everyone! 👋  
+
+Hi! I am **Pranav Gupta**, a CS Undergraduate at **IIIT Hyderabad**.  
+I am an enthusiastic developer who likes to explore various domains of coding. 🚀  
+
+---
+
+## 📖 About Me  
+🔭 I am currently focused on:
+- Competitive Programming (C/C++)  
+- Strengthening core CS concepts like **Operating Systems** and **MySQL**  
+- **Web Development**  
+- **Android App Development**  
+- **Machine Learning** and **Computer Vision**  
+
+🌱 I am currently learning:
+- **Full Stack Development**  
+  - Node.js  
+  - Express.js  
+  - React.js  
+  - MongoDB  
+  - React Native  
+
+📫 I am also diving into:  
+- **Machine Learning Projects** (especially Neural Networks and LLMs/LVMs)
+
+👯 I am open to collaborating on:  
+- **Open Source Projects** involving:  
+  - MERN Stack  
+  - Python  
+  - App Development  
+
+💬 Let's connect for insightful discussions on various topics and share ideas to build exciting projects!
+
+---
+
+## 🛠️ Skills  
+### Programming Languages  
+- C/C++  
+- Python  
+- JavaScript  
+
+### Frameworks & Tools  
+- Node.js, Express.js  
+- React.js, React Native  
+- MongoDB, MySQL  
+- Machine Learning (scikit-learn, TensorFlow, PyTorch)  
+
+### Development  
+- Web Development (MERN Stack)  
+- Android App Development  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-url)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+
+---
+
+## 🔥 Streak Stats  
+![Pranav Gupta's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)  
+
+---
+
+## 💻 GitHub Profile Stats  
+![Pranav Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Pranav Gupta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+
+---
+
+## 📈 Activity Graph  
+![Pranav Gupta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=radical)  
